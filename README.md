@@ -45,6 +45,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
 ## Environment Variables
 
 Create a `.env` file and add your Google Gemini API key:
@@ -52,6 +53,8 @@ Create a `.env` file and add your Google Gemini API key:
 ```env
 GOOGLE_API_KEY=your_api_key_here
 ```
+
+Use here:[https://unit-convertor-project-eaadyhnlp9sdvgsmzquik2.streamlit.app/]
 
 
 ## Contributing
