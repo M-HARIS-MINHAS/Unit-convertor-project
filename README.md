@@ -57,7 +57,7 @@ GOOGLE_API_KEY=your_api_key_here
 
 | Feature               | Screenshot                                                                                                                                   |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Length Conversion     | [C:\Users\PMLS\Pictures\Screenshots/1.png] |
+| Length Conversion     | C:\Users\PMLS\Pictures\Screenshots/1.png |
 | AI Assistant Response | https\://unit-convertor-project-eaadyhnlp9sdvgsmzquik2.streamlit.app/                                                                        |
 
 ## Contributing
