@@ -63,7 +63,7 @@ Pull requests are welcome! Feel free to contributehttps\:https://unit-convertor-
 
 ## Author
 
-**M Haris Chaudhary**
+**M Haris **
 
 ## License
 
