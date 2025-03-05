@@ -55,14 +55,14 @@ GOOGLE_API_KEY=your_api_key_here
 
 ## Screenshots
 
-| Feature                | Screenshot               |
-|-----------------------|--------------------------|
-| Length Conversion     | ![Length](images/length.png) |
-| AI Assistant Response | ![AI](images/ai_response.png) |
+| Feature               | Screenshot                                                                                                                                   |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Length Conversion     | [https://unit-convertor-project-eaadyhnlp9sdvgsmzquik2.streamlit.app/](https://unit-convertor-project-eaadyhnlp9sdvgsmzquik2.streamlit.app/) |
+| AI Assistant Response | https\://unit-convertor-project-eaadyhnlp9sdvgsmzquik2.streamlit.app/                                                                        |
 
 ## Contributing
 
-Pull requests are welcome! Feel free to contribute to improve the functionality or design.
+Pull requests are welcome! Feel free to contributehttps\://unit-convertor-project-eaadyhnlp9sdvgsmzquik2.streamlit.app/ to improve the functionality or design.
 
 ## Author
 
