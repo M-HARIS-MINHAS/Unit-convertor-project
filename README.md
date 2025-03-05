@@ -53,16 +53,10 @@ Create a `.env` file and add your Google Gemini API key:
 GOOGLE_API_KEY=your_api_key_here
 ```
 
-## Screenshots
-
-| Feature               | Screenshot                                                                                                                                   |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Length Conversion     | C:\Users\PMLS\Pictures\Screenshots/1.png |
-| AI Assistant Response | https\://unit-convertor-project-eaadyhnlp9sdvgsmzquik2.streamlit.app/                                                                        |
 
 ## Contributing
 
-Pull requests are welcome! Feel free to contributehttps\://unit-convertor-project-eaadyhnlp9sdvgsmzquik2.streamlit.app/ to improve the functionality or design.
+Pull requests are welcome! Feel free to contributehttps\:https://unit-convertor-project-eaadyhnlp9sdvgsmzquik2.streamlit.app/ to improve the functionality or design.
 
 ## Author
 
